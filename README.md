@@ -1,6 +1,6 @@
 # bio
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Erfan+Pourazizian;Frontend+developer" >
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mandeep+Singh;Frontend+developer" >
 </p>
 
 
